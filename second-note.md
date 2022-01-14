@@ -1,3 +1,3 @@
-this is second note
+this is second note, you can view [third-note](third-note.md) and [fourth-note](fourth-note.md) here.
 
-Go back to [Index](Index.md)
+Go back to [home](home.md)

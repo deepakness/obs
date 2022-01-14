@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "third-note.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "third-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "dc8f88cbcaebb9d4",
   "lastOpenFiles": [
-    "Index.md",
     "third-note.md",
-    "second-note.md",
     "first-note.md",
-    "fourth-note.md"
+    "fourth-note.md",
+    "second-note.md",
+    "home.md"
   ]
 }
