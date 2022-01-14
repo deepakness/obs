@@ -17,7 +17,7 @@ REPO_URL = "https://github.com/deepakness/obs"
 # Site title in navbar
 SITE_TITLE = "DeepakNess Obs"
 # Site URL
-SITE_URL = ""
+SITE_URL = "https://elegant-kare-2e480e.netlify.app/"
 # Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 # Directory to store zola site files (make sure 
